@@ -9,7 +9,7 @@
 ###### QUEUE_HOST=beanstalkd
 
 ##### 4 进入到nginx/sites这个文件里，在里面添加自己的nginx配置文件就好了。里面有示例可以参考。
-##### 5 最后执行 docker-composer up -d redis mysql nginx。整个容器就启动了。
+##### 5 最后执行 docker-compose up -d redis mysql nginx。整个容器就启动了。
 ###### laradock镜像里几乎完全包含了我们常用的PHP相关的扩展（还有很多其他额外的丰富扩展——如果需要的话，直接引入使用就行了，默认是不会启动的）。因为业务需要，我额外增加了一个PHP的kafka扩展。当容器启动后，直接在代码里使用kafka就行了。
 
 [更多详情，请点击这里](http://laradock.io/)
