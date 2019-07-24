@@ -1,0 +1,13 @@
+iiiiiiiiiiIIIIIIIIIiAA
+iiiiiiiiiiiIIIIIIIIICC
+iiiiiiiiiiiIIIIIIIIIDD
+iiiiiiiiiiiIIIIIIIIIGG
+iiiiiiiiiiiIIIIIIIIIWW
+iiiiiiiiiiiIIIIIIIIITT
+iiiiiiiiiiiIIIIIIIIIWW
+	
+
+
+
+
+
